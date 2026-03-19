@@ -2,6 +2,12 @@
 
 LinkHub is a self-hosted link-in-bio app with an admin dashboard, short redirects, embeds, analytics, and a large visual customization system.
 
+# ⚠ This project is not currently maintained! After updating some very solid features, I have decided to move all of my progress into my new venture, [PortalPage!](https://portalpage.app)
+
+## PortalPage is my public access site to this project. Instead of deploying it yourself, you can create an account PortalPage. I realized that many people that need something like this, won't deploy it manually, spending money on a server host + domain.
+
+### Although, it was a very fun hobby project to do. I love the idea of LinkHub, I love the idea of a free/cheaper alternative to these paid bio sites.
+
 ## Highlights
 
 - Secure admin login with hashed passwords (`bcrypt`)
